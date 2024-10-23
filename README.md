@@ -8,7 +8,7 @@ i'm 20, i have been learning to code for 2 years and extremely forward to learn 
 
 * 🌍  I'm based in Bushehr(Iran)
 * ✉️  You can contact me at [Sobhankhedry7297@gmail.com](mailto:Sobhankhedry7297@gmail.com)
-* 🧠  I'm learning ASP .NET MVC
+* 🧠  Currently working on a .net MVC project
 * ⚡  addicted to Coffee, Life has no meaning without coffee ☕
 
 ### Skills
