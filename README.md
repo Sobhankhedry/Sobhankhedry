@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Student
 -------------------------
 
-i'm 20, i have been learning to code for 2 years and extremely forward to learn more.
+i'm 20, i have been learning to code and extremely forward to learn more.
 
 * 🌍  I'm based in Bushehr(Iran)
 * ✉️  You can contact me at [Sobhankhedry7297@gmail.com](mailto:Sobhankhedry7297@gmail.com)
